@@ -129,3 +129,39 @@
 | [Move zeroes](https://leetcode.com/problems/move-zeroes/)                                                                          | [Three way partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1/?page=1&category%5B%5D=Sorting&query=page1category%5B%5DSorting) |
 | [Sort colors](https://leetcode.com/problems/sort-colors/)                                                                          |                                                                                                                                                                |
 | [Linear sort](https://practice.geeksforgeeks.org/problems/efficiently-sorting-number-from-0-to-n2-15444/1)                         |                                                                                                                                                                |
+
+## 7) Dynamic Programming
+
+| Assignment Problems                                                                     	| Homework Problems                                                                                              	|
+|-----------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------	|
+| [Staircase Problem - Top Bottom](https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)  | [Reach Given Score](https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1/?page=1&category[]=Dynamic%20Programming&query=page1category[]Dynamic%20Programming) |
+| [Staircase Problem - Bottom Top](https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1) 	| [Minimum Cost to Climb Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                 	                                                        |
+| [Tiling Problem](https://practice.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1)                       		            | [Flower Array](https://codeforces.com/contest/474/problem/D)                                                                                                           	|
+| [Maximum non adjacent sum - Top Bottom](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1)              | [House Robber 2](https://leetcode.com/problems/house-robber-ii/)      	                                                                                                        |
+| [Maximum non adjacent sum - Bottom Top](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1)              | [Boredom](https://codeforces.com/contest/456/problem/C)                                                       	                                                                |
+| [Maximum non adjacent sum - 2](https://practice.geeksforgeeks.org/problems/adjacents-are-not-allowed3528/1)                   | [Vacation](https://codeforces.com/problemset/problem/698/A)                                                                                                   	                |
+| [Count of Decodings - Top Bottom](https://leetcode.com/problems/decode-ways/)                              			              | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) 	                                                                                                |
+| [Count of Decodings - Bottom Top](https://leetcode.com/problems/decode-ways/)                                                 | [Best Team with No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                                                       	|
+| [Rod Cutting Problem - Top Bottom](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1)                             | [Maximise Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)                                                              	                        |
+| [Rod Cutting Problem - Bottom Top](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1)                             | [Sum of Product of All Subsets (Try on IDE)](https://www.geeksforgeeks.org/sum-products-possible-subsets/)                                                              	        |
+| [Cutting Segments - Top Bottom](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)                            | [Count Derangements (Try on IDE)](https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/)                            	|
+| [Cutting Segments - Bottom Top](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
